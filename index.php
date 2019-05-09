@@ -10,7 +10,7 @@ session_start();
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-<div class="container">
+<div class="container"> 
 	<img src="krishna.jpg"/>
 		<form method="POST" action="login.php">
 		<div class="form-input">
