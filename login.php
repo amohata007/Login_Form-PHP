@@ -9,7 +9,7 @@ $count=mysqli_num_rows($result);
 if($count==1)
 {
 	echo "Login success";
-	$_SESSION['log']=$uname;
+	$_SESSION['log']=$uname; 
 	header("refresh:2;url=welcome.php");
 
 }
