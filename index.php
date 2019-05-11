@@ -4,7 +4,7 @@ session_start();
 <!DOCTYPE html> 
 <html>
 <head>
-	<title> Login Form</title>
+	<title> Login Form</title> 
 	<link rel="stylesheet" href="css/stylee.css">
     <link rel="stylesheet" href="font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
