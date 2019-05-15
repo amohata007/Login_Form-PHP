@@ -21,7 +21,7 @@ session_start();
 		</div>
 		<input type="submit" type="submit" value="LOGIN" class="btn-login"/>
 		</form>
-    </div>
+    </div> 
 
 </body>
 </html>
