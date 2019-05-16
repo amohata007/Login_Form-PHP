@@ -17,7 +17,7 @@ if(isset($_SESSION['log']))
 </html>
 <?php
 }
-else
+else 
 {
 	echo "please fill proper details";
 	header("refresh:2;url=index.php");
