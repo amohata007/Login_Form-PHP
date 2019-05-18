@@ -1,7 +1,7 @@
 <?php
 $uname=$_POST['uname'];//username
 $password=$_POST['password'];//password 
-session_start();
+session_start(); 
 
 $con=mysqli_connect("localhost","root","","login");//mysqli("localhost","username of database","password of database","database name")
 $result=mysqli_query($con,"SELECT * FROM `login_info` WHERE `uname`='$uname' && `password`='$password'");
