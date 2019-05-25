@@ -12,7 +12,7 @@ if($count==1)
 	$_SESSION['log']=$uname; 
 	header("refresh:2;url=welcome.php");
 
-}
+} 
 else
 {
 	echo "please fill proper details";
