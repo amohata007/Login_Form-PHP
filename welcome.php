@@ -8,7 +8,7 @@ if(isset($_SESSION['log']))
 <!DOCTYPE html>
 <html>
 <head>
-<title></title> 
+<title></title>  
 </head>
 <body>
 <h1>Welcome <i><?php echo $_SESSION['log']; ?></i></h1>
